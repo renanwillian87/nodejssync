@@ -1,0 +1,11 @@
+{
+  "name": "fullcycle_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "author": "renan.santos@google.com",
+  "license": "ISC",
+  "type": "module"
+}

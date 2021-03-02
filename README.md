@@ -1,0 +1,4 @@
+# nodejssync
+
+## init
+> $ yarn init
